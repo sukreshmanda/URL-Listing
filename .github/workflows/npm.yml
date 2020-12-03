@@ -11,6 +11,7 @@ jobs:
       - name: Run a one-line script
         run: |
           echo Welcome to sukresh repo
+          npm install @actions/core
 
       # Runs a set of commands using the runners shell
       - name: Update data to repo
