@@ -1,7 +1,9 @@
 const fs = require ("fs")
+const os = require('os');
 fs.readFile('list.conf', 'utf8' , function (err,data) {
   if (err) {
     return console.log(err);
   }
-  console.log(data);
+  let array = data.split(os.EOL)
+  console.log(array)
 });
