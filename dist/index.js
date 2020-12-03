@@ -1,5 +1,5 @@
 const fs = require ("fs")
-fs.readFile('list.conf', function (err,data) {
+fs.readFile('list.conf', 'utf8' , function (err,data) {
   if (err) {
     return console.log(err);
   }
