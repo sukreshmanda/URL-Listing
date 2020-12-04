@@ -22,5 +22,5 @@ fs.readFile('list.conf', 'utf8' , function (err,data) {
      let before = dataa.substring(0,dataa.indexOf("<!--LIST-START-->"))
      let after = dataa.substring(dataa.indexOf("<!--LIST-END-->"))
      console.log("BEFORE:"+before+" END"+ after)
-  }
+  }):
 });
