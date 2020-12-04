@@ -18,19 +18,19 @@ USERNAME : <GitHub UserName>
 
 ```
 
-### Step3 : Add a workflow file with anyname at .github/workflows/
-
-```
-blank.yml
-
-```
-
-### Step4: create a file with name ``` list.conf ``` and data format
+### Step3: create a file with name ``` list.conf ``` and data format
 
 ```
 <Name For Showing> <Web Link>
 
 Dumb Minds https://youtube.com/c/dumbminds/
+
+```
+
+### Step4 : Add a workflow file with anyname at .github/workflows/
+
+```
+blank.yml
 
 ```
 
