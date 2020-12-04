@@ -1,12 +1,9 @@
 name: "Simple GitHub Action"
 author: "Sukresh Manda"
 description: "Simple GitHub Action for testing purpose"
-outputs:
-    statement:
-        description: "Metadata"
 runs:
     using: node12
     main: dist/index.js
 branding:
-    color: "yellow"
-    icon: "cloud"
+    color: "orange"
+    icon: "anchor"
