@@ -47,5 +47,5 @@ blank.yml
            git add .
            git status
            git commit -m "adding npm files"
-           git push origin main
+           git push origin <branch>
 ```
