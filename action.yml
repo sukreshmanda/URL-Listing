@@ -1,4 +1,4 @@
-name: "Simple GitHub Action"
+name: "URL Listing Action"
 author: "Sukresh Manda"
 description: "Simple GitHub Action for testing purpose"
 runs:
