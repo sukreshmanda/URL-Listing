@@ -1,5 +1,5 @@
 # URL-Listing-Action
-[<img src="https://www.flaticon.com/premium-icon/icons/svg/3344/3344325.svg">]
+<img width="25px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8qb4Oi0zL_F34PdKNNkWblncBRn4mZNxITA&usqp=CAU">
 GitHub action to list any web links in readme
 
 ### Step1 : Create Comments in readme file to identify where to place links
