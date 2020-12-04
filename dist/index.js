@@ -7,7 +7,6 @@ fs.readFile('list.conf', 'utf8' , function (err,data) {
   let array = data.split(os.EOL)
   let i=0
   for(i;i<array.length;i++){
-    console.log(array[i])
     let data = array[i]
     let text = data.substring(0,data.indexOf("https://"))
     let link = data.substring(data.indexOf("https://"),data.length)
