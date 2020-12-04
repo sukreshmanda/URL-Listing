@@ -30,6 +30,8 @@ blank.yml
 ```
 <Name For Showing> <Web Link>
 
+Dumb Minds https://youtube.com/c/dumbminds/
+
 ```
 
 ### Step5 : Add the code like this in jobs section
