@@ -1,4 +1,5 @@
 const fs = require ("fs")
+const core = require ("actions/core")
 const os = require('os');
 fs.readFile('list.conf', 'utf8' , function (err,data) {
   if (err) {
