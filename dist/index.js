@@ -8,5 +8,6 @@ fs.readFile('list.conf', 'utf8' , function (err,data) {
   let i=0
   for(i;i<array.length;i++){
     console.log(array[i])
+    let link = array[i]
   }
 });
